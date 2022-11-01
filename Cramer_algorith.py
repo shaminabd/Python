@@ -9,7 +9,7 @@ print("Enter the coeffecients in the following format")
 print("a1x + b1y + c1z = d1 ")
 print("a2x + b2y + c2z = d2 ")
 print("a3x + b3y + c3z = d3 ")
-# Enter lines for user
+
 a1=float(input('Enter a1: '))
 b1=float(input('Enter b1: '))
 c1=float(input('Enter c1: '))
