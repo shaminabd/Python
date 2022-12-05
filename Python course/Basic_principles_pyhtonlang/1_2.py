@@ -1,7 +1,5 @@
-word=input()
-
-y=word.strip()
-
-x=len(y)
-
-print(x-1)
+def s(a, *vs, b=10):
+   res = a + b
+   for v in vs:
+       res += v
+   return res
