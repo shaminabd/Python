@@ -3,4 +3,6 @@ def s(a, *vs, b=10):
    for v in vs:
        res += v
    return res
-print("that's commit")
+string=input()
+lst=string.split()
+print("",lst)
